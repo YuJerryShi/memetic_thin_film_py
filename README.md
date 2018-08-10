@@ -5,7 +5,7 @@
 # How to run this program
 This package can be used to design broadband thin-film spectral filters given a list of dispersive materials
 
-More instructions to come, but you can run the files from /example to see the outcome
+More instructions to come, but you can run the files from /example to see the input syntax and program output
 
 # How to cite this work
 The details of this algorithm is published [here in ACS Photonics]  
